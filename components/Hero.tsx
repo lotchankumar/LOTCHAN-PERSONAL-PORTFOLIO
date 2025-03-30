@@ -11,10 +11,10 @@ const Hero = () => {
         transition={{ duration: 1 }}
       >
         <h1 className="text-5xl font-extrabold tracking-wide">
-          Building the Future, One Line of Code at a Time.
+        Hi, I&apos;m Lotchan Kumar – A Lifelong Learner Shaping the Future Through Innovations. 
         </h1>
         <p className="mt-4 text-lg opacity-80">
-          Creating cutting-edge AI, Quantum Tech, and Web3 solutions.
+        Full-Stack Developer | DS & ML Expert | AI Developer & Prompt Engineer | VR & Metaverse Architect | Quantum Computing Expertise | Robotics & Automation Expert | Bioengineering & Longevity Research Expertise
         </p>
         <motion.a
           href="#projects"
